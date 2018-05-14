@@ -2,8 +2,9 @@
 
 ## For the course "Introduction to Programming (II)" at National Tsing Hua University
 
-g++ -std=c++11 guess.cpp -o guess
-g++ -std=c++11 guess_cpp.cpp -o guess_pc
+`g++ -std=c++11 guess.cpp -o guess`
+
+`g++ -std=c++11 guess_cpp.cpp -o guess_pc`
 
 ### 猜數字
 
