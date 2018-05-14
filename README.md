@@ -1,6 +1,6 @@
 # 1A2B-in-C-
 
-## For the course "Introduction to Programming (II)" at National Tsing Hua University
+## For "Introduction to Programming (II)" at National Tsing Hua University
 
 `g++ -std=c++11 guess.cpp -o guess`
 
